@@ -38,7 +38,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanishMahajan28&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TanishMahajan28&theme=radical" />
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TanishMahajan28&theme=radical" /> -->
 </p>
 
 <!-- <p align="center">
